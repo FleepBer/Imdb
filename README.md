@@ -44,4 +44,4 @@ Neste desafio, você vai praticar os seus conhecimentos em:
 
 ## Layout:
 
-![]()
+![](https://github.com/FleepBer/imdb/blob/master/screenshoots/desktop.png)
